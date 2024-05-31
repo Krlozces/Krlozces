@@ -33,5 +33,15 @@
 <hr />
 
 <h2 align="center">
-    Languages - Frameworks - Tools
+    ⚒️ Languages - Frameworks - Tools ⚒️
 </h2>
+<br/>
+<div align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,express,mongodb,java,laravel" /><br/>
+        <img src="https://skillicons.dev/icons?i=react,r,bootstrap,tailwindcss,mysql,html,css,vscode,figma,git" />
+    </a>
+</div>
+<br/>
+<hr/>
+
