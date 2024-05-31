@@ -9,7 +9,17 @@
 <br>
 
 <div align="center">
-  I'm currently working on
-  I'm currently learning **PowerBi, Kotlin, Java**
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **PowerBi, Java, Kotlin**
+ 
+ 💬 Ask me about 
+ 
+⚡ Fun fact 
 </div>
 
+<div align="center">
+    <a href="mailto:bryancespedes1706@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    </a>
+</div>
