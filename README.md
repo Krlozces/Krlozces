@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,express,mongodb,java,laravel" /><br/>
+        <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,express,mongodb,java,laravel,odoo" /><br/>
         <img src="https://skillicons.dev/icons?i=react,r,bootstrap,tailwindcss,mysql,html,css,vscode,figma,git" />
     </a>
 </div>
